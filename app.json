@@ -4,10 +4,10 @@
     "slug": "ServiceSide",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./app/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./app/assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,16 +18,24 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.Licenta.PetroviciMihail",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./app/assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+        
+      },
+      "config":{
+        "googleMaps": { "apiKey": "AIzaSyCe9DIxIAGnmhz7PluxTDJsRxVerR5hn2U" }
+      },
+      "package": "com.Licenta.PetroviciMihail"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./app/assets/icon.png"
     }
+
   }
 }
