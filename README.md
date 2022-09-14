@@ -1,6 +1,8 @@
 # ServiceSide
 
-Acesta este Repository-ul aplicației pentru serivice-urile auto. Repository-ul aplicației pentru clienți împreună cu prezentarea acesteia: https://github.com/PetroviciMihail/GoAutoService
+Acesta este Repository-ul aplicației pentru serivice-urile auto.
+
+Repository-ul aplicației pentru clienți împreună cu prezentarea acesteia: https://github.com/PetroviciMihail/GoAutoService
 
 Link-ul de unde poate fi descarcată aplicația pentru clienți: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40petrovicivasile/GoAutoService-c0af57a54eb240558ad4184c1f943017-signed.apk
 
@@ -48,7 +50,8 @@ Aici service-urile pot vedea detaliile unei cereri și detaliile legate de mași
 Aici poate vedea clienții care și-au ales singuri un interval orar. Pentru aceștia poate marca operațiunea ca fiind executată, urmând ca aceasta să apară în istoricul vehiculului în aplicația clientului.
 Programarea poate fi și anulată eliberând intervalul orar în programul service-ului și aceasta va dispărea și din programarile clientului.
 
-![image](https://user-images.githubusercontent.com/61497362/190130795-e576d19c-6b50-44d4-b81d-b176c863524c.png)
+![image](https://user-images.githubusercontent.com/61497362/190132440-737b5bcf-883e-4254-ba1f-7600781243a6.png)
+
 
 În acest program service-ul poate adăuga programari proprii, ceea ce va marca intervalul ca fiind indiponibil pentru clienții care doresc să facă o programare.
 
