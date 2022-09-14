@@ -4,9 +4,9 @@ Acesta este Repository-ul aplicației pentru serivice-urile auto.
 
 Repository-ul aplicației pentru clienți împreună cu prezentarea acesteia: https://github.com/PetroviciMihail/GoAutoService
 
-Link-ul de unde poate fi descarcată aplicația pentru clienți: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40petrovicivasile/GoAutoService-c0af57a54eb240558ad4184c1f943017-signed.apk
+Link-ul de unde poate fi descarcată aplicația pentru clienți: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40petrovicivasile/GoAutoService-e2f8985ddb18470282658b849d0af6f1-signed.apk
 
-Link-ul de unde poate fi descarcată aplicația pentru service-uri auto: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40petrovicivasile/ServiceSide-9e4c31d2f75f41e182d9a2a830e0c808-signed.apk
+Link-ul de unde poate fi descarcată aplicația pentru service-uri auto: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40petrovicivasile/ServiceSide-40251ad5e1254286819273ce9d1a9041-signed.apk
 
 Pentru service-urile auto principalele funcționalitați ale aplicației sunt posibilitatea vizualizării cererilor de preț din împrejurimi și administrarea programului pe zile și ore.
 
